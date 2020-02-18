@@ -63,6 +63,7 @@
             "type": "string",
             "allowedValues": [
                 "latest",
+                "9.0.0",
                 "8.1.0"
             ],
             "defaultValue": "latest",
